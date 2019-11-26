@@ -34,30 +34,6 @@ Here are two Youtube videos on how to install Visual Studio and Epic Games Launc
 V.S. - https://www.youtube.com/watch?v=FBo5Cso-ufE
 Epic Games - https://www.youtube.com/watch?v=Tx-7z2b2AlY
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Built With
 
 * [Visual Studio](https://visualstudio.microsoft.com/) - Development environment C++
@@ -69,7 +45,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+I use Github for versioning
 
 ## Authors
 
