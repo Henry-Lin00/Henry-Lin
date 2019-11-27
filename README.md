@@ -2,7 +2,7 @@
 3D Game
 # Project Title
 
-Third Personal Robot Game
+Pick and Roll (Third Personal Robot Game)
 
 ## Getting Started
 
