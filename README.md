@@ -4,6 +4,10 @@
 
 Pick and Roll (Third Personal Robot Game)
 
+## Project Description
+
+A 3D game that allows players to pick up respawn items inside of the world to regenerate heal back.
+
 ## Getting Started
 
 These Project will help you to learn how to create a simple game. See deployment for notes on how to deploy the project on a live system.
@@ -34,7 +38,7 @@ Here are two Youtube videos on how to install Visual Studio and Epic Games Launc
 V.S. - https://www.youtube.com/watch?v=FBo5Cso-ufE
 Epic Games - https://www.youtube.com/watch?v=Tx-7z2b2AlY
 
-## Built With
+## Built With / References
 
 * [Visual Studio](https://visualstudio.microsoft.com/) - Development environment C++
 * [Epic Games](https://www.epicgames.com/store/en-US/) - American video game and software development company
