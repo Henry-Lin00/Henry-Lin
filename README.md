@@ -4,6 +4,10 @@
 
 Pick and Roll (Third Personal Robot Game)
 
+# Project Powerpoint Link
+
+https://docs.google.com/presentation/d/1m5fjsHlTV0_GNsGvPmec-tcXG69EZxzzKnxD3D3n2Lw/edit#slide=id.p
+
 ## Project Description
 
 A 3D game that allows players to pick up respawn items inside of the world to regenerate heal back.
